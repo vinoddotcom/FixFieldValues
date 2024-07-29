@@ -5,7 +5,7 @@ from config import NEO4J_URL,NEO4J_PASSWORD,NEO4J_USERNAME
 neo4j_conn = Neo4jConnection(NEO4J_URL, NEO4J_USERNAME, NEO4J_PASSWORD)
 
 fix_plural = """
-    MATCH (n:Value)
+    MATCH (:NTag {id: "q9LzwSSI"})-[:VALUE]->(n:Value)
     WHERE n.value CONTAINS $query
     SET n.value = REPLACE(n.value, $query, $replace)
     RETURN n
