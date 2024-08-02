@@ -1,4 +1,5 @@
-from Neo4j.neo4j_utils import fix_plural_values
+from Neo4j.neo4j_utils import fix_plural_values, check_exist, set_value
+import pandas as pd
 
 plural_query_obj = {
     "Accompanists": "Accompanist",
@@ -60,6 +61,7 @@ plural_query_obj = {
     "Judges": "Judge",
     "Lascars": "Lascar",
     "LDCs": "LDC",
+    "Leaders": "Leader",
     "Lecturers": "Lecturer",
     "Librarians": "Librarian",
     "Machinists": "Machinist",
@@ -136,4 +138,21 @@ plural_query_obj = {
 }
 
 
+
 fix_plural_values(plural_query_obj)
+
+def fix_post_names():
+    # Read the CSV file
+    df = pd.read_csv("Alert Tags - Vikram's copy - postnames.csv")
+
+    # Display the first few rows of the dataframe
+    for index, row in df.iterrows():
+        tag_data = row.tolist()
+        if tag_data[3] == "Invalid Value":
+            if len(check_exist(tag_data[1])) != 0:
+                print(tag_data)
+        elif tag_data[2] != tag_data[3]:
+            if len(check_exist(tag_data[1])) != 0:
+                print(set_value(tag_data[1], tag_data[3])[0].get("n"))
+
+fix_post_names()
