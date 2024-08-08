@@ -20,8 +20,9 @@ def calculate_similarity(text1, text2):
 def compare_strings(args):
     i, words1, words_list, threshold = args
     similar_pairs = []
+    print(i)
     for j, words2 in enumerate(words_list):
-        if i != j:
+        if i != j and words1 != words2:
             text1 = ' '.join([word for word in words1 if word not in words2])
             text2 = ' '.join([word for word in words2 if word not in words1])
             if text1 and text2:
@@ -46,7 +47,7 @@ def find_similar_strings(strings, threshold=0.95):
     return similar_pairs
 
 
-sheet_identifier = "Post Name--q9LzwSSI"
+sheet_identifier = "FieldAreaSubject--h4i4xwcE"
 file_name = "text_key_value_sheet_data-v2.xlsx"
 
 workbook = openpyxl.load_workbook(file_name)
@@ -72,7 +73,27 @@ def save_to_json(similar_pairs, filename):
 
 
 similar_strings = find_similar_strings([item[3] for item in read_sheet() if item[3]])
-save_to_json(similar_strings, 'similar_strings.json')
+save_to_json(similar_strings, 'FieldAreaSubject-similar_strings-2.json')
 for string, similar in similar_strings.items():
     for similar_string, similarity in similar:
         print(f"'{string}' is {similarity*100:.2f}% similar to '{similar_string}'")
+
+# with open("Course name-similar_strings.json", 'r') as json_file:
+#     data = json.load(json_file)
+
+# total_seen = {}
+# obj = {}
+
+# for key , value in data.items():
+#     if key in total_seen: continue
+#     seen = set()
+#     unique_objects = []
+#     for item in value:
+#         if item["string"] not in seen:
+#             seen.add(item["string"])
+#             total_seen[ item["string"]] = 1
+#             unique_objects.append(item)
+#     obj[key] = unique_objects
+
+#     with open('Course name-similar_strings-1.json', 'w') as json_file:
+#         json.dump(obj, json_file, indent=4)

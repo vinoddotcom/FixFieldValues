@@ -20,31 +20,19 @@ tag_values_query = """
 
 neo4j_conn.connect()
 
-def get_tag_values(id):
-    parameters = {"id": id}
-    res = neo4j_conn.query(tag_values_query, parameters)
-    return res
-
-
-def fix_plural_values(queryObj):
-    for key, item in queryObj.items():
-        parameters = {"query": key, "replace": item}
-        neo4j_conn.query(fix_plural, parameters)
-        print(f"fixed {key} to {item}")
-
-def check_exist(id, levels):
-    query="""MATCH (n:{} {{id : $id}} ) RETURN n""".format(":".join(levels))
-    parameters = {"id": id}
+def check_is_value_exist(key_id, value_id):
+    query= "MATCH (:Key { id: $key_id })-[:VALUE]->(n:Value { id : $value_id }) RETURN n"
+    parameters = {"key_id": key_id, "value_id" : value_id }
     res = neo4j_conn.query(query, parameters)
     return res
 
-def set_value(id, corrected_val):
+def set_value(key_id, value_id, corrected_val):
     query="""
-    MATCH (n:Value {id : $id})
+    MATCH (:Key {id: $key_id})-[:VALUE]->(n:Value {id : $value_id})
     SET n.value = $val
     return n
     """
-    parameters = {"id": id,"val": corrected_val}
+    parameters = {"key_id": key_id, "value_id" : value_id, "val":corrected_val }
     res = neo4j_conn.query(query, parameters)
     return res
 

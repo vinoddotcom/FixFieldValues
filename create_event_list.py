@@ -6,7 +6,6 @@ ids = [result.get("id", None) for result in get_tag_key(["Key", "Text"])]
 
 tag_replace_map = {}
 
-
 # Function to group objects by value and filter groups with two or more objects
 def group_and_filter(objects):
     grouped = defaultdict(list)

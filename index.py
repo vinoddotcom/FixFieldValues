@@ -1,158 +1,41 @@
-from Neo4j.neo4j_utils import fix_plural_values, check_exist, set_value
-import pandas as pd
-
-plural_query_obj = {
-    "Accompanists": "Accompanist",
-    "Accountants": "Accountant",
-    "Administrators": "Administrator",
-    "Advisors": "Advisor",
-    "Advocates": "Advocate",
-    "Analysts": "Analyst",
-    "ANMs": "ANM",
-    "Appraisers": "Appraiser",
-    "Apprentices": "Apprentice",
-    "Architects": "Architect",
-    "Artisans": "Artisan",
-    "Artists": "Artist",
-    "Assistants": "Assistant",
-    "Associates": "Associate",
-    "Attendants": "Attendant",
-    "Attenders": "Attender",
-    "Auditors": "Auditor",
-    "Bearers": "Bearer",
-    "Cashiers": "Cashier",
-    "Clerks": "Clerk",
-    "Coaches": "Coach",
-    "Commandants": "Commandant",
-    "Consultants": "Consultant",
-    "Coordinators": "Coordinator",
-    "Counsellors": "Counsellor",
-    "Counselors": "Counselor",
-    "Counsels": "Counsel",
-    "Curators": "Curator",
-    "Demonstrators": "Demonstrator",
-    "Developers": "Developer",
-    "Doctors": "Doctor",
-    "Drivers": "Driver",
-    "Editors": "Editor",
-    "Educators": "Educator",
-    "Engineers": "Engineer",
-    "Enumerators": "Enumerator",
-    "Executives": "Executive",
-    "Experts": "Expert",
-    "Facilitators": "Facilitator",
-    "Fellows": "Fellow",
-    "Fellows": "Fellow",
-    "Fellowships": "Fellowship",
-    "Friends": "Friend",
-    "Graduates": "Graduate",
-    "Guards": "Guard",
-    "Guides": "Guide",
-    "heads": "head",
-    "House Keepers": "House Keeper",
-    "Inspectors": "Inspector",
-    "Instructors": "Instructor",
-    "Insulators": "Insulator",
-    "Internees": "Internee",
-    "Interns": "Intern",
-    "Interpretors": "Interpreter",
-    "Interviewers": "Interviewer",
-    "Investigators": "Investigator",
-    "Judges": "Judge",
-    "Lascars": "Lascar",
-    "LDCs": "LDC",
-    "Leaders": "Leader",
-    "Lecturers": "Lecturer",
-    "Librarians": "Librarian",
-    "Machinists": "Machinist",
-    "Maistries": "Maistry",
-    "Malies": "Mali",
-    "Managers": "Manager",
-    "Massagers": "Massager",
-    "Masseurs": "Masseur",
-    "Members": "Member",
-    "Mentors": "Mentor",
-    "Messiers": "Messier",
-    "Models": "Model",
-    "Nurses": "Nurse",
-    "Officers": "Officer",
-    "Officers": "Officer",
-    "officials": "official",
-    "Operators": "Operator",
-    "Operators": "Operator",
-    "Peons": "Peon",
-    "Personnels": "Personnel",
-    "Persons": "Person",
-    "Pharmacists": "Pharmacist",
-    "Physicians": "Physician",
-    "Physicians": "Physician",
-    "Physicists": "Physicist",
-    "Positions": "Position",
-    "Practitioners": "Practitioner",
-    "Principals": "Principal",
-    "Professionals": "Professional",
-    "Professors": "Professor",
-    "Programmers": "Programmer",
-    "Prosecutors": "Prosecutor",
-    "Psychologists": "Psychologist",
-    "Rangers": "Ranger",
-    "Ratings": "Rating",
-    "Readers": "Reader",
-    "Receptionists": "Receptionist",
-    "Recruits": "Recruit",
-    "Reporters": "Reporter",
-    "Representatives": "Representative",
-    "Researchers": "Researcher",
-    "Residents": "Resident",
-    "Residents": "Resident",
-    "RHOs": "RHO",
-    "Scholars": "Scholar",
-    "Scientists": "Scientist",
-    "Screeners": "Screener",
-    "Secretaries": "Secretary",
-    "Servants": "Servant",
-    "Speakers": "Speaker",
-    "Specialists": "Specialist",
-    "Stenographers": "Stenographer",
-    "Stewards": "Steward",
-    "Superintendents": "Superintendent",
-    "Supervisors": "Supervisor",
-    "Surgeons": "Surgeon",
-    "Surveyors": "Surveyor",
-    "Sweeps": "Sweep",
-    "Teachers": "Teacher",
-    "Technicians": "Technician",
-    "Testers": "Tester",
-    "Therapists": "Therapist",
-    "Trainees": "Trainee",
-    "Tutors": "Tutor",
-    "Typists": "Typist",
-    "Visitors": "Visitor",
-    "Ward Boys": "Ward Boy",
-    "Wardens": "Warden",
-    "Warders": "Warder",
-    "Watchers": "Watcher",
-    "Welders": "Welder",
-    "Workers": "Worker",
-    "Writers": "Writer"
-}
+from Neo4j.neo4j_utils import check_is_value_exist, set_value
+import openpyxl
 
 
+file_name = "text_key_value_sheet_data-v3.xlsx"
 
-fix_plural_values(plural_query_obj)
+workbook = openpyxl.load_workbook(file_name)
 
-def fix_post_names():
-    # Read the CSV file
-    df = pd.read_csv("Alert Tags - Vikram's copy - postnames.csv")
+sheet_names = workbook.sheetnames
 
-    # Display the first few rows of the dataframe
-    for index, row in df.iterrows():
-        tag_data = row.tolist()
-        if tag_data[3] == "Invalid Value":
-            if len(check_exist(tag_data[1])) != 0:
-                print(tag_data)
-        elif tag_data[2] != tag_data[3]:
-            if len(check_exist(tag_data[1])) != 0:
-                print(set_value(tag_data[1], tag_data[3])[0].get("n"))
+def read_sheet(sheet_identifier):
+    if isinstance(sheet_identifier, int):
+        sheet = workbook.worksheets[sheet_identifier]
+    else:
+        sheet = workbook[sheet_identifier]
+    data = []
+    for row in sheet.iter_rows(values_only=True):
+        data.append(list(row))  # Ensure each row is a list
+    
+    return data
 
-fix_post_names()
+def fix_tag_value(key_id, value_id, corrected_value):
+    existing_value = check_is_value_exist(key_id, value_id)
+    if not existing_value: raise ValueError(f"key_id: {key_id}, value_id: {value_id} does't exist")
+    old_value = existing_value[0].get("n").get("value")
+    if corrected_value and corrected_value != old_value:
+        set_value(key_id, value_id, corrected_value)
+        print(key_id, value_id, corrected_value)
+
+
+for sheet_name in sheet_names:
+    fields_data = read_sheet(sheet_name)
+    for index, field in enumerate(fields_data):
+        if index == 0: continue
+        key_id = field[0]
+        value_id = field[1]
+        corrected_value = field[3]
+        fix_tag_value(key_id, value_id, corrected_value)
+
+
+# fix_tag_value("eEPkh9p7","6d2pMlS3", "Post Graduate")

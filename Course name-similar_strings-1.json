@@ -1,0 +1,184 @@
+{
+    "Bachelor in Audiology and Speech Language Pathology": [
+        {
+            "string": "Bachelor of Audiology and Speech-Language Pathology",
+            "similarity": 0.9655172413793104
+        },
+        {
+            "string": "Bachelor of Audiology and Speech-Language Pathology",
+            "similarity": 0.9655172413793104
+        }
+    ],
+    "Bachelor of Audiology and Speech Language Pathology": [
+        {
+            "string": "Bachelor of Audiology and Speech-Language Pathology",
+            "similarity": 0.9655172413793104
+        }
+    ],
+    "Bachelor of Audiology and Speech-Language Pathology": [
+        {
+            "string": "Bachelor in Audiology and Speech Language Pathology",
+            "similarity": 0.9655172413793104
+        },
+        {
+            "string": "Bachelor in Audiology and Speech Language Pathology",
+            "similarity": 0.9655172413793104
+        },
+        {
+            "string": "Bachelor of Audiology and Speech Language Pathology",
+            "similarity": 0.9655172413793104
+        },
+        {
+            "string": "Bachelors in Audiology and Speech Language Pathology",
+            "similarity": 0.9583333333333334
+        }
+    ],
+    "Bachelor of Homeopathic Medicine and Surgery": [
+        {
+            "string": "Bachelor of Homoeopathic Medicine and Surgery",
+            "similarity": 0.9565217391304348
+        }
+    ],
+    "Bachelor of Homoeopathic Medicine and Surgery": [
+        {
+            "string": "Bachelor of Homeopathic Medicine and Surgery",
+            "similarity": 0.9565217391304348
+        }
+    ],
+    "Bachelors in Audiology and Speech Language Pathology": [
+        {
+            "string": "Bachelor of Audiology and Speech-Language Pathology",
+            "similarity": 0.9583333333333334
+        }
+    ],
+    "Master in Computer Application": [
+        {
+            "string": "Master of Computer Applications",
+            "similarity": 0.9565217391304348
+        }
+    ],
+    "Master of Computer Application": [
+        {
+            "string": "Master of Computer Applications",
+            "similarity": 0.9565217391304348
+        }
+    ],
+    "Master of Computer Applications": [
+        {
+            "string": "Master in Computer Application",
+            "similarity": 0.9565217391304348
+        },
+        {
+            "string": "Master of Computer Application",
+            "similarity": 0.9565217391304348
+        }
+    ],
+    "Post Doctoral Fellowship": [
+        {
+            "string": "Postdoctoral Fellowship",
+            "similarity": 0.96
+        },
+        {
+            "string": "Postdoctoral Fellowship",
+            "similarity": 0.96
+        }
+    ],
+    "Postdoctoral Fellowship": [
+        {
+            "string": "Post Doctoral Fellowship",
+            "similarity": 0.96
+        },
+        {
+            "string": "Post Doctoral Fellowship",
+            "similarity": 0.96
+        }
+    ],
+    "Postgraduate Diploma in Computer Application": [
+        {
+            "string": "Postgraduate Diploma in Computer Applications",
+            "similarity": 0.9565217391304348
+        },
+        {
+            "string": "Postgraduate Diploma in Computer Applications",
+            "similarity": 0.9565217391304348
+        },
+        {
+            "string": "Postgraduate Diploma in Computer Applications",
+            "similarity": 0.9565217391304348
+        }
+    ],
+    "Postgraduate Diploma in Computer Applications": [
+        {
+            "string": "Postgraduate Diploma in Computer Application",
+            "similarity": 0.9565217391304348
+        },
+        {
+            "string": "Postgraduate Diploma in Computer Application",
+            "similarity": 0.9565217391304348
+        },
+        {
+            "string": "Postgraduate Diploma in Computer Application",
+            "similarity": 0.9565217391304348
+        }
+    ],
+    "Postgraduate Diploma in Genetic Counseling": [
+        {
+            "string": "Postgraduate Diploma in Genetic Counselling",
+            "similarity": 0.9523809523809523
+        }
+    ],
+    "Postgraduate Diploma in Genetic Counselling": [
+        {
+            "string": "Postgraduate Diploma in Genetic Counseling",
+            "similarity": 0.9523809523809523
+        }
+    ],
+    "Postgraduate Diploma in Guidance and Counseling": [
+        {
+            "string": "Postgraduate Diploma in Guidance and Counselling",
+            "similarity": 0.9523809523809523
+        }
+    ],
+    "Postgraduate Diploma in Guidance and Counselling": [
+        {
+            "string": "Postgraduate Diploma in Guidance and Counseling",
+            "similarity": 0.9523809523809523
+        }
+    ],
+    "Under Graduate Programme": [
+        {
+            "string": "Undergraduate Programme",
+            "similarity": 0.9629629629629629
+        },
+        {
+            "string": "Undergraduate Programme",
+            "similarity": 0.9629629629629629
+        },
+        {
+            "string": "Undergraduate Programme",
+            "similarity": 0.9629629629629629
+        },
+        {
+            "string": "Undergraduate Programme",
+            "similarity": 0.9629629629629629
+        }
+    ],
+    "Undergraduate Programme": [
+        {
+            "string": "Under Graduate Programme",
+            "similarity": 0.9629629629629629
+        },
+        {
+            "string": "Under Graduate Programme",
+            "similarity": 0.9629629629629629
+        },
+        {
+            "string": "Under Graduate Programme",
+            "similarity": 0.9629629629629629
+        },
+        {
+            "string": "Under Graduate Programme",
+            "similarity": 0.9629629629629629
+        }
+    ]
+}
