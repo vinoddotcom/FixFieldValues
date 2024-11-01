@@ -156,7 +156,7 @@ def process_events(eventIds, progress_file='event_progress.json'):
     lock = manager.Lock()
     batch_size = 30
     for chunk in chunks(eventIds, batch_size):
-        with ProcessPoolExecutor(max_workers=8) as executor:  # Adjust max_workers as needed
+        with ProcessPoolExecutor(max_workers=3) as executor:  # Adjust max_workers as needed
             futures = {executor.submit(process_single_event, eventId, processed_events, lock, progress_file): eventId for eventId in chunk}
             for future in as_completed(futures):
                 eventId = futures[future]
@@ -275,4 +275,5 @@ isProcessed_events = process_events(all_events["events"])
 isProcessed_exam  = process_exam_and_organisation(all_events["organizations"], "Organisation", "Organisation_progress.json")
 isProcessed_organisation  = process_exam_and_organisation(all_events["exams"], "Exam", "Exams_progress.json")
 
+# print(f"exams: {isProcessed_exam}, organizations: {isProcessed_organisation}")
 print(f"events: {isProcessed_events}, exams: {isProcessed_exam}, organizations: {isProcessed_organisation}")

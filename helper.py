@@ -121,6 +121,7 @@ def updateEvent(payload):
       payload = json.dumps(payload)
       response = requests.request("POST", url, headers=headers, data=payload)
       if response.status_code == 200:
+        print(response.json())
         return response.json()
       else:
           print(f"Update event API call failed with status code: {response.status_code}, id: {id}")
@@ -179,6 +180,7 @@ def updateCoreTag(payload):
     # payload = json.dumps(payload)
 
     try:
+      payload = json.dumps(payload)
       response = requests.request("POST", url, headers=headers, data=payload)
       if response.status_code == 200:
         return response.json()
@@ -190,69 +192,20 @@ def updateCoreTag(payload):
         return None
    
 
-
-# Exam example
-# url = "https://api.exampathfinder.net/n/admin/tag/connect"
-
-# payload = json.dumps({
-#   "tagId": "hmVjH112",
-#   "tagType": "Exam",
-#   "tags": [
-#     {
-#       "nameId": "OwIM1KAN",
-#       "valueId": "xNpu1qGH"
-#     },
-#     {
-#       "nameId": "LMGjNRLB",
-#       "valueId": "Bu78hqHy"
-#     },
-#     {
-#       "nameId": "Bv2ZOMzp",
-#       "valueId": "zE59JQXi"
-#     },
-#     {
-#       "nameId": "MgHVVPYR",
-#       "valueId": "8qI2ZvkE"
-#     },
-#     {
-#       "nameId": "LzIYvpkD",
-#       "valueId": "AG19Cc8V"
-#     },
-#     {
-#       "nameId": "HXKXXgut",
-#       "valueId": "yca812Q8"
-#     },
-#     {
-#       "nameId": "LMGjNRLB",
-#       "valueId": "B9rRHEXC"
-#     },
-#     {
-#       "nameId": "LMGjNRLB",
-#       "valueId": "qqta9gvo"
-#     }
-#   ],
-#   "coreTags": []
-# })
-# headers = {
-#   'accept': 'application/json',
-#   'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8',
-#   'cache-control': 'no-cache',
-#   'content-type': 'application/json',
-#   'origin': 'https://alert.exampathfinder.com',
-#   'pragma': 'no-cache',
-#   'priority': 'u=1, i',
-#   'referer': 'https://alert.exampathfinder.com/',
-#   'sec-ch-ua': '"Google Chrome";v="125", "Chromium";v="125", "Not.A/Brand";v="24"',
-#   'sec-ch-ua-mobile': '?0',
-#   'sec-ch-ua-platform': '"Linux"',
-#   'sec-fetch-dest': 'empty',
-#   'sec-fetch-mode': 'cors',
-#   'sec-fetch-site': 'cross-site',
-#   'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
-#   'x-fb-token': x_fb_token,
-#   'x-fb-uuid': x_fb_uuid
-# }
-
-# response = requests.request("POST", url, headers=headers, data=payload)
-
-# print(response.text)
+def update_tag_value(payload):
+  url = "https://api.exampathfinder.net/n/admin/tag/update-field"
+  # payload = json.dumps({
+  #   "tagId": "TJCsY9IS",
+  #   "tagText": "Level 23"
+  # })
+  try:
+    payload = json.dumps(payload)
+    response = requests.request("POST", url, headers=headers, data=payload)
+    if response.status_code == 200:
+      return response.json()
+    else:
+        print(f"update_tag_value API call failed with status code: {response.status_code}")
+        return None
+  except requests.RequestException as e:
+      print(f"update_tag_value API call failed for: {e}")
+      return None

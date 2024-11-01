@@ -1,0 +1,2362 @@
+{
+  "0iPCp2sP": {
+    "event": "0iPCp2sP",
+    "updated_response": {
+      "tagId": "0iPCp2sP",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "zyNNPKLm",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "YXJovCYz",
+          "nameId": "ilZxrAUM"
+        }
+      ],
+      "tagName": "Regional Fodder Station Hisar",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination 0iPCp2sP not found in My data",
+      "Exam or origination 0iPCp2sP not found in My data"
+    ]
+  },
+  "k7jqOaGC": {
+    "event": "k7jqOaGC",
+    "updated_response": {
+      "tagId": "k7jqOaGC",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "n0o25vZc",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "9HObm5Sm",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        }
+      ],
+      "tagName": "MSME Technology Centre Kochi",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination k7jqOaGC not found in My data",
+      "Exam or origination k7jqOaGC not found in My data"
+    ]
+  },
+  "H9EoBbHi": {
+    "event": "H9EoBbHi",
+    "updated_response": {
+      "tagId": "H9EoBbHi",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "migfn30a",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "E2bSbsB3",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "valueId": "AXyx5YBG",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "YMs9Oq7M"
+        }
+      ],
+      "tagName": "Indian Institute of Information Technology Una",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination H9EoBbHi not found in My data",
+      "Exam or origination H9EoBbHi not found in My data"
+    ]
+  },
+  "tbIMUOnV": {
+    "event": "tbIMUOnV",
+    "updated_response": {
+      "tagId": "tbIMUOnV",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "XjOCNQQN",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "valueId": "Y6kDyFVq",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "GdOFldp7",
+          "nameId": "ZhWcSTMm"
+        }
+      ],
+      "tagName": "Union Territory of Ladakh",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination tbIMUOnV not found in My data",
+      "Exam or origination tbIMUOnV not found in My data"
+    ]
+  },
+  "28fwcwl1": {
+    "event": "28fwcwl1",
+    "updated_response": {
+      "tagId": "28fwcwl1",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "b52Jv5ii",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "8U0D52tY",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "YMs9Oq7M"
+        }
+      ],
+      "tagName": "Semiconductor Technology and Applied Research Centre",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination 28fwcwl1 not found in My data",
+      "Exam or origination 28fwcwl1 not found in My data"
+    ]
+  },
+  "K76JmXKg": {
+    "event": "K76JmXKg",
+    "updated_response": {
+      "tagId": "K76JmXKg",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "51oYEMNl",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "Xv9T7ygh",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "8nT9p8Gv",
+          "nameId": "yJhhcHi6"
+        }
+      ],
+      "tagName": "Department of Personnel and Administrative Reforms Puducherry",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination K76JmXKg not found in My data",
+      "Exam or origination K76JmXKg not found in My data"
+    ]
+  },
+  "vB9gCph1": {
+    "event": "vB9gCph1",
+    "updated_response": {
+      "tagId": "vB9gCph1",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "033ZQHwr",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "valueId": "oj6VRZAd",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "yKlP3BG1",
+          "nameId": "ZhWcSTMm"
+        }
+      ],
+      "tagName": "Assam Gas Company Limited",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination vB9gCph1 not found in My data",
+      "Exam or origination vB9gCph1 not found in My data"
+    ]
+  },
+  "mD2FBvx6": {
+    "event": "mD2FBvx6",
+    "updated_response": {
+      "tagId": "mD2FBvx6",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "MYj2L1mo",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "YMs9Oq7M"
+        },
+        {
+          "valueId": "VcB7az4x",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "RWF37QmP",
+          "nameId": "gaZ53yRq"
+        }
+      ],
+      "tagName": "Dr APJ Abdul Kalam Government College",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination mD2FBvx6 not found in My data",
+      "Exam or origination mD2FBvx6 not found in My data"
+    ]
+  },
+  "bNCf7bmk": {
+    "event": "bNCf7bmk",
+    "updated_response": {
+      "tagId": "bNCf7bmk",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "vZqq9Qfc",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "YXJovCYz",
+          "nameId": "ilZxrAUM"
+        }
+      ],
+      "tagName": "Deputy Commissioner Koderma",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination bNCf7bmk not found in My data",
+      "Exam or origination bNCf7bmk not found in My data"
+    ]
+  },
+  "UPwIZBaJ": {
+    "event": "UPwIZBaJ",
+    "updated_response": {
+      "tagId": "UPwIZBaJ",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "o0swRvjV",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "U0mR1HBZ",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "ZjjI5tKf",
+          "nameId": "gaZ53yRq"
+        }
+      ],
+      "tagName": "Local Self Government Department Rajasthan",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination UPwIZBaJ not found in My data",
+      "Exam or origination UPwIZBaJ not found in My data"
+    ]
+  },
+  "Yh3fU0TK": {
+    "event": "Yh3fU0TK",
+    "updated_response": {
+      "tagId": "Yh3fU0TK",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "3d5RgSqh",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "sls3BRZ7",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "s1YTdm78",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        }
+      ],
+      "tagName": "Madhyanchal Gramin Bank",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination Yh3fU0TK not found in My data",
+      "Exam or origination Yh3fU0TK not found in My data"
+    ]
+  },
+  "8sovpxFh": {
+    "event": "8sovpxFh",
+    "updated_response": {
+      "tagId": "8sovpxFh",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "xBgFNIXg",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "9PJ7WAVu",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "p4ZVCtso",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        }
+      ],
+      "tagName": "DNH Power Distribution Corporation Limited",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination 8sovpxFh not found in My data",
+      "Exam or origination 8sovpxFh not found in My data"
+    ]
+  },
+  "hBiv2PAT": {
+    "event": "hBiv2PAT",
+    "updated_response": {
+      "tagId": "hBiv2PAT",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "qDxh09hs",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "VzAlB2cJ",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "puC5TqmG",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        }
+      ],
+      "tagName": "Haryana State Board of Technical Education",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination hBiv2PAT not found in My data",
+      "Exam or origination hBiv2PAT not found in My data"
+    ]
+  },
+  "XmUAIqvp": {
+    "event": "XmUAIqvp",
+    "updated_response": {
+      "tagId": "XmUAIqvp",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "hDsQX7iQ",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "t6niIMjp",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "valueId": "8s6pbdlk",
+          "nameId": "yJhhcHi6"
+        }
+      ],
+      "tagName": "Rajasthan Police",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination XmUAIqvp not found in My data",
+      "Exam or origination XmUAIqvp not found in My data"
+    ]
+  },
+  "fDZ5rLfX": {
+    "event": "fDZ5rLfX",
+    "updated_response": {
+      "tagId": "fDZ5rLfX",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "YqneJxGV",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "valueId": "tPsU39Zh",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "8fDrXAse",
+          "nameId": "ZhWcSTMm"
+        }
+      ],
+      "tagName": "The District Cooperative Central Bank Limited Khammam",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination fDZ5rLfX not found in My data",
+      "Exam or origination fDZ5rLfX not found in My data"
+    ]
+  },
+  "4Q14fbhr": {
+    "event": "4Q14fbhr",
+    "updated_response": {
+      "tagId": "4Q14fbhr",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "zI2mq1pv",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "1FhboNlX",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "VctdCtX3",
+          "nameId": "gaZ53yRq"
+        }
+      ],
+      "tagName": "Department of Cooperation Punjab",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination 4Q14fbhr not found in My data",
+      "Exam or origination 4Q14fbhr not found in My data"
+    ]
+  },
+  "FmSuaARQ": {
+    "event": "FmSuaARQ",
+    "updated_response": {
+      "tagId": "FmSuaARQ",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "FUK8AC8r",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "j9ADjZU6",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "EYWkFSBG",
+          "nameId": "yJhhcHi6"
+        }
+      ],
+      "tagName": "Government Of Jammu and Kashmir",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination FmSuaARQ not found in My data",
+      "Exam or origination FmSuaARQ not found in My data"
+    ]
+  },
+  "8CVAUsHj": {
+    "event": "8CVAUsHj",
+    "updated_response": {
+      "tagId": "8CVAUsHj",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "O6EECMjT",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "1SPyeRSw",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "g4IX4wsc",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        }
+      ],
+      "tagName": "Jammu and Kashmir Institute of Management Public Administration and Rural Development",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination 8CVAUsHj not found in My data",
+      "Exam or origination 8CVAUsHj not found in My data"
+    ]
+  },
+  "KWpRZNpD": {
+    "event": "KWpRZNpD",
+    "updated_response": {
+      "tagId": "KWpRZNpD",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "o0swRvjV",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "U0mR1HBZ",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "NJX8lOKl",
+          "nameId": "gaZ53yRq"
+        }
+      ],
+      "tagName": "Department of Sanskrit Education Rajasthan",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination KWpRZNpD not found in My data",
+      "Exam or origination KWpRZNpD not found in My data"
+    ]
+  },
+  "mSxLNwyc": {
+    "event": "mSxLNwyc",
+    "updated_response": {
+      "tagId": "mSxLNwyc",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "EYWkFSBG",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "YMs9Oq7M"
+        },
+        {
+          "valueId": "FUK8AC8r",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "cveQ9x5E",
+          "nameId": "gaZ53yRq"
+        }
+      ],
+      "tagName": "Centre For Nano And Soft Matter Sciences",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination mSxLNwyc not found in My data",
+      "Exam or origination mSxLNwyc not found in My data"
+    ]
+  },
+  "Ra7aBUw0": {
+    "event": "Ra7aBUw0",
+    "updated_response": {
+      "tagId": "Ra7aBUw0",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "imPKKkFT",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "HdqmRUIm",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "3B0gB2J7",
+          "nameId": "gaZ53yRq"
+        }
+      ],
+      "tagName": "Urban Development Directorate",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination Ra7aBUw0 not found in My data",
+      "Exam or origination Ra7aBUw0 not found in My data"
+    ]
+  },
+  "fhQqso8K": {
+    "event": "fhQqso8K",
+    "updated_response": {
+      "tagId": "fhQqso8K",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "ApfuWrOb",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "sHv5WnPm",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "valueId": "TeTIl3Hp",
+          "nameId": "ZhWcSTMm"
+        }
+      ],
+      "tagName": "Pushpa Gujral Science City Kapurthala",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination fhQqso8K not found in My data",
+      "Exam or origination fhQqso8K not found in My data"
+    ]
+  },
+  "qYUY9Dqh": {
+    "event": "qYUY9Dqh",
+    "updated_response": {
+      "tagId": "qYUY9Dqh",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "QLCHcgZi",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "valueId": "w7tssWis",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "o7ryZ1cL",
+          "nameId": "yJhhcHi6"
+        }
+      ],
+      "tagName": "Vidhi Sahitya Prakashan",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination qYUY9Dqh not found in My data",
+      "Exam or origination qYUY9Dqh not found in My data"
+    ]
+  },
+  "XpCcTpjk": {
+    "event": "XpCcTpjk",
+    "updated_response": {
+      "tagId": "XpCcTpjk",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "O6EECMjT",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "1SPyeRSw",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "breLSwwF",
+          "nameId": "gaZ53yRq"
+        }
+      ],
+      "tagName": "Jammu and Kashmir Minerals Limited",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination XpCcTpjk not found in My data",
+      "Exam or origination XpCcTpjk not found in My data"
+    ]
+  },
+  "HhCESMYI": {
+    "event": "HhCESMYI",
+    "updated_response": {
+      "tagId": "HhCESMYI",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "rmzJlBB8",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "YMs9Oq7M",
+          "nameId": "Sd1YZBDu"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "CgzJBbSx",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "valueId": "K9NygV5C",
+          "nameId": "ZhWcSTMm"
+        }
+      ],
+      "tagName": "Department of Medical Education and Research Punjab",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination HhCESMYI not found in My data",
+      "Exam or origination HhCESMYI not found in My data"
+    ]
+  },
+  "IWAk6kG9": {
+    "event": "IWAk6kG9",
+    "updated_response": {
+      "tagId": "IWAk6kG9",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "YXJovCYz",
+          "nameId": "ilZxrAUM"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "YMs9Oq7M"
+        },
+        {
+          "valueId": "5POUazdD",
+          "nameId": "gaZ53yRq"
+        }
+      ],
+      "tagName": "National Defence Academy Pune",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination IWAk6kG9 not found in My data",
+      "Exam or origination IWAk6kG9 not found in My data"
+    ]
+  },
+  "IFrAMSUi": {
+    "event": "IFrAMSUi",
+    "updated_response": {
+      "tagId": "IFrAMSUi",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "LJ60MuQu",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "n0o25vZc",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "t58w52NG",
+          "nameId": "yJhhcHi6"
+        }
+      ],
+      "tagName": "Central Excise Customs and Service Tax Cochin",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination IFrAMSUi not found in My data",
+      "Exam or origination IFrAMSUi not found in My data"
+    ]
+  },
+  "tAyTy3vr": {
+    "event": "tAyTy3vr",
+    "updated_response": {
+      "tagId": "tAyTy3vr",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "PE4L5tdw",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "valueId": "EYWkFSBG",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "FUK8AC8r",
+          "nameId": "ZhWcSTMm"
+        }
+      ],
+      "tagName": "Centre Of Innovative And Applied Bioprocessing",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination tAyTy3vr not found in My data",
+      "Exam or origination tAyTy3vr not found in My data"
+    ]
+  },
+  "04hj2sXA": {
+    "event": "04hj2sXA",
+    "updated_response": {
+      "tagId": "04hj2sXA",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "s12IWhjP",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "valueId": "O4GCGYKq",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "rndklel2",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        }
+      ],
+      "tagName": "Chhattisgarh State Power Distribution Company Limited",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination 04hj2sXA not found in My data",
+      "Exam or origination 04hj2sXA not found in My data"
+    ]
+  },
+  "30s4pqys": {
+    "event": "30s4pqys",
+    "updated_response": {
+      "tagId": "30s4pqys",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "YMs9Oq7M"
+        },
+        {
+          "valueId": "O4GCGYKq",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "rndklel2",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "bSWuyEat",
+          "nameId": "gaZ53yRq"
+        }
+      ],
+      "tagName": "Department of Health and Family Welfare and Medical Education Chhattisgarh",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination 30s4pqys not found in My data",
+      "Exam or origination 30s4pqys not found in My data"
+    ]
+  },
+  "1ttLGNDb": {
+    "event": "1ttLGNDb",
+    "updated_response": {
+      "tagId": "1ttLGNDb",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "JQ3Pc5wC",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "reSgQOeQ",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "vrS9kCQo",
+          "nameId": "gaZ53yRq"
+        }
+      ],
+      "tagName": "High Court Calcutta",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination 1ttLGNDb not found in My data",
+      "Exam or origination 1ttLGNDb not found in My data"
+    ]
+  },
+  "unS2Z60h": {
+    "event": "unS2Z60h",
+    "updated_response": {
+      "tagId": "unS2Z60h",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "o7ryZ1cL",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "w7tssWis",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "vzZnaY56",
+          "nameId": "gaZ53yRq"
+        }
+      ],
+      "tagName": "Directorate General of Married Accommodation Project",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination unS2Z60h not found in My data",
+      "Exam or origination unS2Z60h not found in My data"
+    ]
+  },
+  "CtbwuDT3": {
+    "event": "CtbwuDT3",
+    "updated_response": {
+      "tagId": "CtbwuDT3",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "tFPipJ9y",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "valueId": "o0swRvjV",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "U0mR1HBZ",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        }
+      ],
+      "tagName": "Excise Department Rajasthan",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination CtbwuDT3 not found in My data",
+      "Exam or origination CtbwuDT3 not found in My data"
+    ]
+  },
+  "hVapydRi": {
+    "event": "hVapydRi",
+    "updated_response": {
+      "tagId": "hVapydRi",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "bpSKCaYW",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "8ptgtzWl",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "7oWCWjBB",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "bbLSLoGz",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "valueId": "jC3DXGZv",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "YMs9Oq7M"
+        }
+      ],
+      "tagName": "Sadhu Vaswani College Of Nursing Pune",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination hVapydRi not found in My data",
+      "Exam or origination hVapydRi not found in My data"
+    ]
+  },
+  "JaFYpjCa": {
+    "event": "JaFYpjCa",
+    "updated_response": {
+      "tagId": "JaFYpjCa",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "8U0D52tY",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "b52Jv5ii",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "dJ0rDfl2",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        }
+      ],
+      "tagName": "Department of State Educational Research and Training Karnataka",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination JaFYpjCa not found in My data",
+      "Exam or origination JaFYpjCa not found in My data"
+    ]
+  },
+  "kqA0dTrs": {
+    "event": "kqA0dTrs",
+    "updated_response": {
+      "tagId": "kqA0dTrs",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "Nvo2EtEa",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "gA86Twnx",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "valueId": "euxE8XlN",
+          "nameId": "yJhhcHi6"
+        }
+      ],
+      "tagName": "Naini Aerospace Limited",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination kqA0dTrs not found in My data",
+      "Exam or origination kqA0dTrs not found in My data"
+    ]
+  },
+  "hIreKCbf": {
+    "event": "hIreKCbf",
+    "updated_response": {
+      "tagId": "hIreKCbf",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "lQhPrOYX",
+          "nameId": "Sd1YZBDu"
+        },
+        {
+          "valueId": "YZJh731s",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        }
+      ],
+      "tagName": "International Advanced Research Centre for Powder Metallurgy and New Materials",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination hIreKCbf not found in My data",
+      "Exam or origination hIreKCbf not found in My data"
+    ]
+  },
+  "ebMN0brw": {
+    "event": "ebMN0brw",
+    "updated_response": {
+      "tagId": "ebMN0brw",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "reSgQOeQ",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "JQ3Pc5wC",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "AdcnlSBa",
+          "nameId": "gaZ53yRq"
+        }
+      ],
+      "tagName": "R G Kar Medical College and Hospital",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination ebMN0brw not found in My data",
+      "Exam or origination ebMN0brw not found in My data"
+    ]
+  },
+  "1GxNf6jx": {
+    "event": "1GxNf6jx",
+    "updated_response": {
+      "tagId": "1GxNf6jx",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "O6EECMjT",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "1SPyeRSw",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "egb9WxyB",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        }
+      ],
+      "tagName": "Chenab Valley Power Projects Limited",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination 1GxNf6jx not found in My data",
+      "Exam or origination 1GxNf6jx not found in My data"
+    ]
+  },
+  "1kNDx64Y": {
+    "event": "1kNDx64Y",
+    "updated_response": {
+      "tagId": "1kNDx64Y",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "3DvemwPW",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "D9NcJQ2S",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "8jRBnT3I",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "YMs9Oq7M"
+        }
+      ],
+      "tagName": "National Law University Meghalaya",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination 1kNDx64Y not found in My data",
+      "Exam or origination 1kNDx64Y not found in My data"
+    ]
+  },
+  "4iRaLoV6": {
+    "event": "4iRaLoV6",
+    "updated_response": {
+      "tagId": "4iRaLoV6",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "KSutvRiV",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "y0iWQo5x",
+          "nameId": "ZhWcSTMm"
+        }
+      ],
+      "tagName": "Regional Research Institute of Unani Medicine Kharghar",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination 4iRaLoV6 not found in My data",
+      "Exam or origination 4iRaLoV6 not found in My data"
+    ]
+  },
+  "q52du2bc": {
+    "event": "q52du2bc",
+    "updated_response": {
+      "tagId": "q52du2bc",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "YPfvUCTP",
+          "nameId": "ilZxrAUM"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        }
+      ],
+      "tagName": "International Center of Excellence in Mining",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination q52du2bc not found in My data",
+      "Exam or origination q52du2bc not found in My data"
+    ]
+  },
+  "mNnTjzOJ": {
+    "event": "mNnTjzOJ",
+    "updated_response": {
+      "tagId": "mNnTjzOJ",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "O6EECMjT",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "azoqD5CM",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "1SPyeRSw",
+          "nameId": "ZhWcSTMm"
+        }
+      ],
+      "tagName": "Jammu and Kashmir Board of School Education",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination mNnTjzOJ not found in My data",
+      "Exam or origination mNnTjzOJ not found in My data"
+    ]
+  },
+  "zavT4MdM": {
+    "event": "zavT4MdM",
+    "updated_response": {
+      "tagId": "zavT4MdM",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "cx0tUPY5",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "42Ljo6sw",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "YGCXdgbB",
+          "nameId": "gaZ53yRq"
+        }
+      ],
+      "tagName": "State Armed Police Punjab",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination zavT4MdM not found in My data",
+      "Exam or origination zavT4MdM not found in My data"
+    ]
+  },
+  "hsiUzqZl": {
+    "event": "hsiUzqZl",
+    "updated_response": {
+      "tagId": "hsiUzqZl",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "HAal1hN0",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "vQF2ddFE",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "x38dACox",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "YMs9Oq7M"
+        }
+      ],
+      "tagName": "Raja Balwant Singh College Agra",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination hsiUzqZl not found in My data",
+      "Exam or origination hsiUzqZl not found in My data"
+    ]
+  },
+  "jAGGrRZC": {
+    "event": "jAGGrRZC",
+    "updated_response": {
+      "tagId": "jAGGrRZC",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "K9NygV5C",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "rmzJlBB8",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "ILy78jJP",
+          "nameId": "gaZ53yRq"
+        }
+      ],
+      "tagName": "Punjab State Cooperative Milk Producers Federation Ltd",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination jAGGrRZC not found in My data",
+      "Exam or origination jAGGrRZC not found in My data"
+    ]
+  },
+  "achPTBRT": {
+    "event": "achPTBRT",
+    "updated_response": {
+      "tagId": "achPTBRT",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "1SPyeRSw",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "FUK8AC8r",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "EYWkFSBG",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "O6EECMjT",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "THWFlfWC",
+          "nameId": "gaZ53yRq"
+        }
+      ],
+      "tagName": "General Administrative Department",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination achPTBRT not found in My data",
+      "Exam or origination achPTBRT not found in My data"
+    ]
+  },
+  "0Rc9SP4j": {
+    "event": "0Rc9SP4j",
+    "updated_response": {
+      "tagId": "0Rc9SP4j",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "LJluZcNF",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "dEkOSpV2",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "XHgQEmSD",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        }
+      ],
+      "tagName": "Smart City Thiruvananthapuram Limited",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination 0Rc9SP4j not found in My data",
+      "Exam or origination 0Rc9SP4j not found in My data"
+    ]
+  },
+  "Rs7xeLWT": {
+    "event": "Rs7xeLWT",
+    "updated_response": {
+      "tagId": "Rs7xeLWT",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "FUK8AC8r",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "RQUzmUDY",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "EYWkFSBG",
+          "nameId": "yJhhcHi6"
+        }
+      ],
+      "tagName": "Hindustan Urvarak and Rasayan Limited",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination Rs7xeLWT not found in My data",
+      "Exam or origination Rs7xeLWT not found in My data"
+    ]
+  },
+  "XHYHkjG4": {
+    "event": "XHYHkjG4",
+    "updated_response": {
+      "tagId": "XHYHkjG4",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "o0swRvjV",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "U0mR1HBZ",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "sEHL7Twi",
+          "nameId": "gaZ53yRq"
+        }
+      ],
+      "tagName": "RajCOMP Info Services Limited",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination XHYHkjG4 not found in My data",
+      "Exam or origination XHYHkjG4 not found in My data"
+    ]
+  },
+  "NVYylaYB": {
+    "event": "NVYylaYB",
+    "updated_response": {
+      "tagId": "NVYylaYB",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "9pcXivIz",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "YMs9Oq7M"
+        },
+        {
+          "valueId": "QTH5PPUR",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "gYtj6P9v",
+          "nameId": "ZhWcSTMm"
+        }
+      ],
+      "tagName": "National Institute of Electronics and Information Technology Gorakhpur",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination NVYylaYB not found in My data",
+      "Exam or origination NVYylaYB not found in My data"
+    ]
+  },
+  "UOQ2sZJw": {
+    "event": "UOQ2sZJw",
+    "updated_response": {
+      "tagId": "UOQ2sZJw",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "KtQVaIxz",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "valueId": "imPKKkFT",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "HdqmRUIm",
+          "nameId": "yJhhcHi6"
+        }
+      ],
+      "tagName": "Power Transmission Corporation of Uttarakhand Limited",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination UOQ2sZJw not found in My data",
+      "Exam or origination UOQ2sZJw not found in My data"
+    ]
+  },
+  "5GUusufG": {
+    "event": "5GUusufG",
+    "updated_response": {
+      "tagId": "5GUusufG",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "rmzJlBB8",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "YMs9Oq7M"
+        },
+        {
+          "valueId": "K9NygV5C",
+          "nameId": "ZhWcSTMm"
+        }
+      ],
+      "tagName": "Mahatma Gandhi State Institute of Public Administration Punjab",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination 5GUusufG not found in My data",
+      "Exam or origination 5GUusufG not found in My data"
+    ]
+  },
+  "5ffrAlfW": {
+    "event": "5ffrAlfW",
+    "updated_response": {
+      "tagId": "5ffrAlfW",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "K9NygV5C",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "Yx82G8gE",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "rmzJlBB8",
+          "nameId": "yJhhcHi6"
+        }
+      ],
+      "tagName": "Punjab Police",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination 5ffrAlfW not found in My data",
+      "Exam or origination 5ffrAlfW not found in My data"
+    ]
+  },
+  "I0s45ap0": {
+    "event": "I0s45ap0",
+    "updated_response": {
+      "tagId": "I0s45ap0",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "cpbuOBLT",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "irwPf5im",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "valueId": "yvsdGE31",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        }
+      ],
+      "tagName": "District Health and Family Welfare Society Yamunanagar",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination I0s45ap0 not found in My data",
+      "Exam or origination I0s45ap0 not found in My data"
+    ]
+  },
+  "gO490IDC": {
+    "event": "gO490IDC",
+    "updated_response": {
+      "tagId": "gO490IDC",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "8nT9p8Gv",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "1T9dwdMJ",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "valueId": "Xv9T7ygh",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        }
+      ],
+      "tagName": "Puducherry State Health Mission",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination gO490IDC not found in My data",
+      "Exam or origination gO490IDC not found in My data"
+    ]
+  },
+  "mi3gVB35": {
+    "event": "mi3gVB35",
+    "updated_response": {
+      "tagId": "mi3gVB35",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "zI2mq1pv",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "1FhboNlX",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "mh74enqX",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        }
+      ],
+      "tagName": "Punjab Information and Communication Technology Corporation Limited",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination mi3gVB35 not found in My data",
+      "Exam or origination mi3gVB35 not found in My data"
+    ]
+  },
+  "RWYuvErH": {
+    "event": "RWYuvErH",
+    "updated_response": {
+      "tagId": "RWYuvErH",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "e6jJKwnf",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "zZOuGVkx",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "0V84chMk",
+          "nameId": "yJhhcHi6"
+        }
+      ],
+      "tagName": "State Council of Educational Research and Training Haryana",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination RWYuvErH not found in My data",
+      "Exam or origination RWYuvErH not found in My data"
+    ]
+  },
+  "DQQMjBvr": {
+    "event": "DQQMjBvr",
+    "updated_response": {
+      "tagId": "DQQMjBvr",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "b52Jv5ii",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "8U0D52tY",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "qVaNVR56",
+          "nameId": "gaZ53yRq"
+        }
+      ],
+      "tagName": "Banglore Electricity Supply Company Limited",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination DQQMjBvr not found in My data",
+      "Exam or origination DQQMjBvr not found in My data"
+    ]
+  },
+  "JT4TIjGQ": {
+    "event": "JT4TIjGQ",
+    "updated_response": {
+      "tagId": "JT4TIjGQ",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "YMs9Oq7M"
+        },
+        {
+          "valueId": "o7ryZ1cL",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "w7tssWis",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "aUsmNwRs",
+          "nameId": "gaZ53yRq"
+        }
+      ],
+      "tagName": "India Education and Research Network",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination JT4TIjGQ not found in My data",
+      "Exam or origination JT4TIjGQ not found in My data"
+    ]
+  },
+  "WDnMJtSJ": {
+    "event": "WDnMJtSJ",
+    "updated_response": {
+      "tagId": "WDnMJtSJ",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "dhnoTcry",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "dlL7TSTk",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "YMs9Oq7M"
+        },
+        {
+          "valueId": "FAEO2QcT",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "lQhPrOYX",
+          "nameId": "Sd1YZBDu"
+        }
+      ],
+      "tagName": "National Cooperative Organics Limited",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination WDnMJtSJ not found in My data",
+      "Exam or origination WDnMJtSJ not found in My data"
+    ]
+  },
+  "HUpPKehs": {
+    "event": "HUpPKehs",
+    "updated_response": {
+      "tagId": "HUpPKehs",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "OA5rQ7yd",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "wzIjslpM",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "gauUPb56",
+          "nameId": "gaZ53yRq"
+        }
+      ],
+      "tagName": "Instrumentation Limited Palakkad",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination HUpPKehs not found in My data",
+      "Exam or origination HUpPKehs not found in My data"
+    ]
+  },
+  "mSFDiy3Z": {
+    "event": "mSFDiy3Z",
+    "updated_response": {
+      "tagId": "mSFDiy3Z",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "v2ZOFtIB",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "3bVEWkML",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "YMs9Oq7M"
+        },
+        {
+          "valueId": "XsQ7OEIv",
+          "nameId": "gaZ53yRq"
+        }
+      ],
+      "tagName": "Arunachal Pradesh State Council for Technical Education",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination mSFDiy3Z not found in My data",
+      "Exam or origination mSFDiy3Z not found in My data"
+    ]
+  },
+  "nsKy0pwy": {
+    "event": "nsKy0pwy",
+    "updated_response": {
+      "tagId": "nsKy0pwy",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "sS0oObWS",
+          "nameId": "ilZxrAUM"
+        },
+        {
+          "valueId": "FUK8AC8r",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "YMs9Oq7M"
+        },
+        {
+          "valueId": "85n63jJo",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "valueId": "EYWkFSBG",
+          "nameId": "yJhhcHi6"
+        }
+      ],
+      "tagName": "Kendriya Vidyalaya Amarkot",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination nsKy0pwy not found in My data",
+      "Exam or origination nsKy0pwy not found in My data"
+    ]
+  },
+  "ocKs4hDK": {
+    "event": "ocKs4hDK",
+    "updated_response": {
+      "tagId": "ocKs4hDK",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "oR6dWEdj",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "valueId": "7oWCWjBB",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "bpSKCaYW",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        }
+      ],
+      "tagName": "Vidharbha Konkan Gramin Bank",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination ocKs4hDK not found in My data",
+      "Exam or origination ocKs4hDK not found in My data"
+    ]
+  },
+  "siRZ1Rqi": {
+    "event": "siRZ1Rqi",
+    "updated_response": {
+      "tagId": "siRZ1Rqi",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "k7Gaz56m",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "sSJ31GyM",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "EYWkFSBG",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "ujWr6uJy",
+          "nameId": "gaZ53yRq"
+        }
+      ],
+      "tagName": "Chief Medical Officer Budaun",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination siRZ1Rqi not found in My data",
+      "Exam or origination siRZ1Rqi not found in My data"
+    ]
+  },
+  "MrOOSjwg": {
+    "event": "MrOOSjwg",
+    "updated_response": {
+      "tagId": "MrOOSjwg",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "sHMyFidS",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "fKjSPBQI",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "SQY4EvT1",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "valueId": "YMs9Oq7M",
+          "nameId": "Sd1YZBDu"
+        }
+      ],
+      "tagName": "Netaji Subhas Chandra Bose Medical College Jabalpur",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination MrOOSjwg not found in My data",
+      "Exam or origination MrOOSjwg not found in My data"
+    ]
+  },
+  "mnLvn2aJ": {
+    "event": "mnLvn2aJ",
+    "updated_response": {
+      "tagId": "mnLvn2aJ",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "SFW0iC6B",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "Xi2yPvie",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "ZLufoEin",
+          "nameId": "gaZ53yRq"
+        }
+      ],
+      "tagName": "Army Recruiting Office Kolhapur",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination mnLvn2aJ not found in My data",
+      "Exam or origination mnLvn2aJ not found in My data"
+    ]
+  },
+  "EVA8Un92": {
+    "event": "EVA8Un92",
+    "updated_response": {
+      "tagId": "EVA8Un92",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "O6EECMjT",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "CYwYqAdj",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "valueId": "1SPyeRSw",
+          "nameId": "ZhWcSTMm"
+        }
+      ],
+      "tagName": "State Council of Educational Research and Training Jammu and Kasmir",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination EVA8Un92 not found in My data",
+      "Exam or origination EVA8Un92 not found in My data"
+    ]
+  },
+  "Xs8BLW5d": {
+    "event": "Xs8BLW5d",
+    "updated_response": {
+      "tagId": "Xs8BLW5d",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "o0swRvjV",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "U0mR1HBZ",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "2qrKRDXE",
+          "nameId": "gaZ53yRq"
+        }
+      ],
+      "tagName": "Rajasthan Council of School Education",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination Xs8BLW5d not found in My data",
+      "Exam or origination Xs8BLW5d not found in My data"
+    ]
+  },
+  "tZ22SznV": {
+    "event": "tZ22SznV",
+    "updated_response": {
+      "tagId": "tZ22SznV",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "EYWkFSBG",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "FUK8AC8r",
+          "nameId": "ZhWcSTMm"
+        }
+      ],
+      "tagName": "National Recruitment Agency",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination tZ22SznV not found in My data",
+      "Exam or origination tZ22SznV not found in My data"
+    ]
+  },
+  "nI2QoYOp": {
+    "event": "nI2QoYOp",
+    "updated_response": {
+      "tagId": "nI2QoYOp",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "K9NygV5C",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "rmzJlBB8",
+          "nameId": "yJhhcHi6"
+        },
+        {
+          "valueId": "Mn7TylGw",
+          "nameId": "gaZ53yRq"
+        }
+      ],
+      "tagName": "Institute of Medical Health Amritsar",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination nI2QoYOp not found in My data",
+      "Exam or origination nI2QoYOp not found in My data"
+    ]
+  },
+  "3WEZNCaT": {
+    "event": "3WEZNCaT",
+    "updated_response": {
+      "tagId": "3WEZNCaT",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "valueId": "y1aooNpg",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "bNJnaEhG",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "valueId": "0XPxdiSW",
+          "nameId": "yJhhcHi6"
+        }
+      ],
+      "tagName": "Chamundeshwari Electricity Supply  Corporation Limited",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination 3WEZNCaT not found in My data",
+      "Exam or origination 3WEZNCaT not found in My data"
+    ]
+  },
+  "sjrY83FC": {
+    "event": "sjrY83FC",
+    "updated_response": {
+      "tagId": "sjrY83FC",
+      "tagType": "Organisation",
+      "tags": [
+        {
+          "nameId": "Sd1YZBDu",
+          "valueId": "lQhPrOYX"
+        },
+        {
+          "valueId": "QopbyVyl",
+          "nameId": "ZhWcSTMm"
+        },
+        {
+          "valueId": "9IeaKt3M",
+          "nameId": "gaZ53yRq"
+        },
+        {
+          "valueId": "kQG4o5nY",
+          "nameId": "yJhhcHi6"
+        }
+      ],
+      "tagName": "JAPIT Recruitment Portal",
+      "coreTags": []
+    },
+    "status": "success",
+    "log": [
+      "Exam or origination sjrY83FC not found in My data",
+      "Exam or origination sjrY83FC not found in My data"
+    ]
+  }
+}
