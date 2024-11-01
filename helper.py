@@ -119,10 +119,7 @@ def updateEvent(payload):
 
     try:
       payload = json.dumps(payload)
-      print("hello",id)
       response = requests.request("POST", url, headers=headers, data=payload)
-      print(response.status_code, id,"hello2")
-      print("hello3")
       if response.status_code == 200:
         return response.json()
       else:
@@ -138,7 +135,6 @@ def updateEvent(payload):
 def readEvent(id):
     timeStamp = int(time.time() * 1000)
     url = f"https://api.exampathfinder.net/n/user/event-read?eventId={id}&ts={timeStamp}"
-    print(url)
 
     try:
       response = requests.request("GET", url, headers=headers)
@@ -149,7 +145,7 @@ def readEvent(id):
           print(response.json())
           return None
     except requests.RequestException as e:
-        print(f"updateEvent API call failed for: {e}")
+        print(f"readEvent API call failed for: {e}")
         return None
 
 
@@ -180,21 +176,18 @@ def updateCoreTag(payload):
   #    ],
   #    "coreTags": []
   #  })
-    payload = json.dumps(payload)
+    # payload = json.dumps(payload)
 
     try:
       response = requests.request("POST", url, headers=headers, data=payload)
-      print(response.status_code)
       if response.status_code == 200:
         return response.json()
       else:
-          print(f"Update event API call failed with status code: {response.status_code}")
-          print(response.json())
+          print(f"CoreTag API call failed with status code: {response.status_code}")
           return None
     except requests.RequestException as e:
-        print(f"updateEvent API call failed for: {e}")
+        print(f"updateCoreTag API call failed for: {e}")
         return None
-    # return "succcess"
    
 
 

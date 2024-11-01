@@ -1,6 +1,0 @@
-'Bachelor of Arts Bachelor of Education'    -    'Bachelor of Arts-Bachelor of Education'
-'Bachelor of Arts-Bachelor of Education'    -    'Bachelor of Arts Bachelor of Education'
-'P. G. Diploma Course in Industrial Fermentation and Alcohol Technology'    -    'P.G. Diploma Course in Industrial Fermentation and Alcohol Technology'
-'P. G. Diploma Course in Industrial Fermentation and Alcohol Technology'    -    'P.G. Diploma Course in Industrial Fermentation and Alcohol Technology'
-'P.G. Diploma Course in Industrial Fermentation and Alcohol Technology'    -    'P. G. Diploma Course in Industrial Fermentation and Alcohol Technology'
-'P.G. Diploma Course in Industrial Fermentation and Alcohol Technology'    -    'P. G. Diploma Course in Industrial Fermentation and Alcohol Technology'

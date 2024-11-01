@@ -48,7 +48,7 @@ def find_similar_strings(strings, threshold=0.95):
 
 
 sheet_identifier = "FieldAreaSubject--h4i4xwcE"
-file_name = "text_key_value_sheet_data-v2.xlsx"
+file_name = "text_key_value_sheet_data-v3.xlsx"
 
 workbook = openpyxl.load_workbook(file_name)
 

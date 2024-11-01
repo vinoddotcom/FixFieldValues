@@ -69,7 +69,7 @@
 import openpyxl
 from collections import defaultdict
 
-file_name = "text_key_value_sheet_data-v3.xlsx"
+file_name = "text_key_value_sheet_data.xlsx"
 
 workbook = openpyxl.load_workbook(file_name)
 

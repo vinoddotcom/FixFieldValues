@@ -14,7 +14,7 @@ fix_plural = """
 tag_values_query = """
     MATCH (:NTag {id: $id})-[:VALUE]->(n:Value)
     OPTIONAL MATCH (n)-[:TAGGED_WITH]-(e)
-    WITH n.value AS value, n.id AS id, COLLECT(e.id) AS events
+    WITH n.value AS value, n.id AS id, COLLECT({id: e.id, label: LABELS(e)[0]}) AS events
     RETURN { value: value, id: id, events: events } AS nodeInfo
 """
 
@@ -48,4 +48,16 @@ def delete_unused_tag_val():
 def get_tag_key(labels):
     query = f"MATCH (n:{(':').join(labels)}) RETURN n.id as id"
     res = neo4j_conn.query(query)
+    return res
+
+def get_tag_values(id):
+    parameters = {"id": id}
+    res = neo4j_conn.query(tag_values_query, parameters)
+    return res
+
+
+def search_tag_values(id, name):
+    parameters = {"id": id, "name": name}
+    query = """MATCH (:NTag:Key {id: $id})-[:VALUE]->(n:NTag:Value {value: $name}) return n"""
+    res = neo4j_conn.query(query, parameters)
     return res
